@@ -3,6 +3,8 @@
 <p align="center"><strong>Self-Hosted DocSend Alternative</strong></p>
 <p align="center">Secure, Simple, and Reliable</p>
 
+![Screenshot of the Coneshare web UI showcasing its capabilities.](https://raw.githubusercontent.com/coneshare/.github/refs/heads/main/profile/demo.png)
+
 Coneshare is an open-source platform that gives you a secure and private way to manage the entire lifecycle of your sensitive documents: upload, process, secure, share, and track.
 
 ## How To Get Started
