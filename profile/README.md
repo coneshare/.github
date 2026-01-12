@@ -35,6 +35,10 @@ Coneshare is an open-source platform that gives you a secure and private way to 
 - **Dynamic Watermarking**: Protect your documents by applying watermarks with the viewer's email, IP address, or other details.
 - **Version History**: Keep track of document updates and access previous versions.
 
+## Roadmap
+
+- Get an idea about our priorities and long-term plans: [Roadmap](https://github.com/orgs/coneshare/projects/2/)
+
 ## Contact Us
 
 We’d love to hear from you! Whether you have questions, feedback, or want to get involved, here’s how to reach us:
